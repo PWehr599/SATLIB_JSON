@@ -1,5 +1,5 @@
 All formulas were taken from https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html.
-The formulas were tested with the Kissat SAT Solver https://github.com/arminbiere/kissat.
+The formulas were solved with the Kissat SAT Solver https://github.com/arminbiere/kissat.
 The processor used for most formulas is a 3,1 GHz Dual-Core Intel Core i7.
 
 Exceptions are: DIMACS Benchmark Instances 1) gcp-large and 2) parity. 
