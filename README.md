@@ -9,10 +9,11 @@ The structure for the formulas in the Uniform Random 3-SAT Folder had to be modi
 The last lines in each cnf file have a % and 0 sign that throw an error when running KISSAT.
 
 The parity formulas in the DIMACS Benchmark Instances had the 0 character in a new line for each clause which also lead to errors.
-Example: 
+<br>Example: 
+<br>
 p cnf 64 254
- -2 1
- 0
- -3 -2
- 0
-...
+<br> -2 1
+<br> 0
+<br> -3 -2
+<br> 0
+<br>...
